@@ -1,2 +1,9 @@
+train/
+test/
+val/
+subset_20/
+subset_40/
+subset_60/
+subset_80/
 *.zip
 *.jpg
